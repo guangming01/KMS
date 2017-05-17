@@ -13,6 +13,7 @@ namespace KMS.Models
         public String straße;
         public int krNr;
         public String krankenkasse;
-        public Boolean privatV;
+        private Boolean privatV;
+
     }
 }

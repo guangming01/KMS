@@ -8,6 +8,7 @@ namespace KMS.Models
     public class Arzt
     {
         public String vorname;
+        public int id;
         public String nachname;
     }
 }
