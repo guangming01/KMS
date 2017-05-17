@@ -146,6 +146,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Benutzer.cs" />
+    <Compile Include="Models\Arzt.cs" />
     <Compile Include="Models\Patienten.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
