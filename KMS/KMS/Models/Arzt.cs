@@ -11,5 +11,6 @@ namespace KMS.Models
         public int id;
         public String nachname;
         private double gehalt;
+        private int id2;
     }
 }
