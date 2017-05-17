@@ -11,8 +11,9 @@ namespace KMS.Models
         public String nachname;
         public int alter;
         public String straße;
-        public int KrNr;
-        public String Krankenkasse;
-        public Boolean 
+        public int postleitzahl;
+        public String stadt;
+        public Boolean privatV;
+
     }
 }

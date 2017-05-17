@@ -7,5 +7,12 @@ namespace KMS.Models
 {
     public class Patienten
     {
+        public String vorname;
+        public String nachname;
+        public int alter;
+        public String straße;
+        public int krNr;
+        public String krankenkasse;
+        public Boolean privatV;
     }
 }
