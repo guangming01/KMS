@@ -14,6 +14,7 @@ namespace KMS.Models
         public int krNr;
         public String krankenkasse;
         private Boolean privatV;
+        //Yunus Test
 
     }
 }
