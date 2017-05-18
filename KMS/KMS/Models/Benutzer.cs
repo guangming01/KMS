@@ -14,7 +14,7 @@ namespace KMS.Models
         public int postleitzahl;
         public String stadt;
         public Boolean privatV;
-        // test yunus
+ 
 
     }
 }
